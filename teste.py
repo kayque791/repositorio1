@@ -8,5 +8,5 @@ print('--------')
 if chute == numero:
     print('vc acertouuu, cagada :-)')
 else:
-        print('eu ja esperava')
+    print('eu ja esperava que não conseguria')
 print('boa sorte na proxima filhão')
